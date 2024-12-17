@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Linear Regression Model for Bike Sharing.
 
 
 ## Table of Contents
@@ -11,7 +11,6 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
--
 - To understand the factors on which the demand for shared bikes depends. Specifically, we want to understand the factors affecting the demand for these shared bikes in the American market:
 - Which variables are significant in predicting the demand for shared bikes?
 - How well those variables describe the bike demands?
